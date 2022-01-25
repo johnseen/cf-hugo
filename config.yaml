@@ -1,8 +1,8 @@
-baseurl: https://example.com
+baseurl: https://cf.sunzhe.cc
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: 御剑乘风来,除魔天地间
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
