@@ -2,7 +2,6 @@
 title: 20220214-20220220
 description: 周总结
 date: 2022-02-20
-slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
     - weekly
