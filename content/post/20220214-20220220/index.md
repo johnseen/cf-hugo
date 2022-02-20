@@ -30,4 +30,4 @@ categories:
 
 ![](book.jpg)
 
-*还好*
+*还好,测试图片*
